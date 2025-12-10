@@ -721,7 +721,7 @@
     <div class="marquee-container">
         <div class="marquee">
             🎉 歡迎來到大道國中午餐網站 🎉   |  
-            📢 提醒：下週一進行廚房清潔，供餐時間調整為12:10 📢   |  
+            
             🌟 營養小知識：每天攝取五種不同顏色的蔬果，健康滿分！ 🌟٩(◕‿◕)۶
         </div>
     </div>
@@ -783,54 +783,15 @@
 				
             </div>
         </div>
-	 <div class="announcements-container">
-            <div class="announcement-header">
-                <div class="header-icon">
-                    <i class="fas fa-bullhorn"></i>
-                </div>
-                <h3>最新公告</h3>
-                <div class="header-decoration"></div>
-            </div>
-            
-            <div class="announcement-list">
-                <div class="announcement-item">
-                    <div class="announcement-content">
-                        <div class="announcement-dot"></div>
-                        <span>9月1日起午餐廚餘減量計畫開始</span>
-                    </div>
-                    <span class="announcement-date">2025-09-1</span>
-                </div>
-                
-                <div class="announcement-item">
-                    <div class="announcement-content">
-                        <div class="announcement-dot"></div>
-                        <span>12345</span>
-                    </div>
-                    <span class="announcement-date">2023-05-08</span>
-                </div>
-                
-                <div class="announcement-item">
-                    <div class="announcement-content">
-                        <div class="announcement-dot"></div>
-                        <span>本學期午餐費費補助申請已開始，截止日期為5月30日</span>
-                    </div>
-                    <span class="announcement-date">2023-05-05</span>
-                </div>
-                
-                <div class="announcement-item">
-                    <div class="announcement-content">
-                        <div class="announcement-dot"></div>
-                        <span>6月起將實施新的午餐供應商評鑑制度</span>
-                    </div>
-                    <span class="announcement-date">2023-05-01</span>
-                </div>
-            </div>
-            
-            <div class="announcement-more">
-                <a href="#" class="more-link">查看全部公告 <i class="fas fa-chevron-right"></i></a>
-            </div>
+	 <footer style="text-align: center; padding: 20px; margin-top: 30px; border-top: 1px solid #eee;">
+              © 2025 大道國中午餐資訊網 版權所有         校址：43252/432311 臺中市大肚區大東里仁德路60號              電話：04-26992028
+         </footer>
+           
         </div>
+		 
     </div>
+        
+     
 
     <div id="menu" class="page-content">
         <div class="login-status">
@@ -840,165 +801,34 @@
         
         <h2 class="page-title"><i class="fas fa-utensils"></i> 廠商菜單 ԅ(¯﹃¯ԅ)</h2>
        <center>
-        <p>點擊來看看午餐有什麼好吃的菜色吧!(*ฅ́˘ฅ̀*)</p>
-       <div style="margin-top: 20px;">
-            <a href="https://drive.google.com/file/d/1MQO4zN2zEzKHoWomJx7EkOmbCCLUOPrH/view" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ☆114年-12月-☆玉美菜單☆
-            </a>
-        </div>
-		
-		<div style="margin-top: 20px;">
-            <a href="https://drive.google.com/file/d/1o-15vIHFtYQkFLrMr7O4B3GfAF5VW-0D/view" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ☆114年-12月-☆香豪佳菜單☆
-            </a>
-        </div>
-		
-        <div style="margin-top: 20px;">
-            <a href="https://drive.google.com/file/d/1pLcCUmLE0rN--IwSJxbsGgbLWeYsp9HE/view" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ☆114年-12月-☆潔達菜單☆
-            </a>
-        </div>
+        
+      
 <center>
             <a href="https://drive.google.com/drive/folders/1wVh5kHPUdizHYu4l_NrJbJqprDwDW6nx?usp=drive_link" class="survey-button" target="_blank">
-                <i class="fas fa-pencil-alt"></i> 雲端資料下載處
+                <i class="fas fa-pencil-alt"></i> 點擊此處查看有什麼好吃的菜色吧!(*ฅ́˘ฅ̀*)
             </a>
        
 
     </div>
-
+          
    <div id="survey" class="page-content">
     <h2 class="page-title">午餐滿意度調查</h2>
     <center>
-        <p>請點擊下方按鈕填寫本週的午餐滿意度問卷，您的意見對我們非常重要！ ฅ^•ω•^ฅ</p>
-        <a href="https://drive.google.com/drive/folders/1ZbQVZuAYwxgXYwkZz3Cp6OpvAjJZtHwU?usp=drive_link" class="survey-button" target="_blank">
-            <i class="fas fa-pencil-alt"></i> 雲端問卷區
+        <p></p>
+        <a href="https://drive.google.com/drive/folders/13kufycRg2lY25sgKWWdC-NSdTV5qaTwu" class="survey-button" target="_blank">
+            <i class="fas fa-pencil-alt"></i> 點擊此處填按鈕填寫本週的午餐滿意度問卷，您的意見對我們非常重要！ ฅ^•ω•^ฅ
         </a>
         
-        <div style="margin-top: 20px;">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeDo-kmRezAq8173z9bM2HI8nhHSrtzU-7N_BUL7NMZslP_tA/viewform" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第2週(09/08-09/12) ◆
-            </a>
-        </div>
-		
-		<div style="margin-top: 20px;">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1jPb0zrMYxe_UT4gbE4_8dyshs0bK-UTm-87-Q2uVlWcC-w/viewform" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第3週(09/15-09/19) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/s9vToNLqcKTTeKt66" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第4週(09/22-09/26) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/3eyyyF1dENtkEVho7" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第5週(09/29-10/03) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/uhgiFqGpSUPFePgP7" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第6週(10/06-10/10) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/Bz7kKfA6HSwzqmKQ8" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第7週(10/13-10/17) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/vPq8fP6dK9RkLzH47" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第8週(10/20-10/24) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/9yX895r1h9t8K9N77" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第9週(10/27-10/31) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/yQ492K6i3E7sV8v3A" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第10週(11/03-11/07) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/vS5eE3P9z8y7vQv79" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第11週(11/10-11/14) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/Pz9e8uKx7K4fD8gT7" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第12週(11/17-11/21) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/h3GgQx3w9D6jD3M6A" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第13週(11/24-11/28) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/9k2cQ7m8x4j9P9y9A" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第14週(12/01-12/05) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVtz0cU4jEbT0t2maVU7neT6kp9CDkHpp3WDPiE668JkaZGg/viewform="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第15週(12/08-12/12) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/J5hD7K4fG9j8wX8z8" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第16週(12/15-12/19) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/V9pM7hJ6k7y8xV9w9" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第17週(12/22-12/26) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/N3k5H7j8m9n2p4q6" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第18週(12/29-01/02) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/yoRZ2NnQKYuJ6tqU8" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第19週(01/05-01/09) ◆
-            </a>
-        </div>
-        
-        <div style="margin-top: 20px;">
-            <a href="https://forms.gle/ej8GXswZqX8N6eNW9" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> ◆ 114-1午餐滿意度-第20週(01/12-01/16) ◆
-            </a>
-        </div>
     </center>
 </div>
 
+    
 <div id="gallery" class="page-content">
     <h2 class="page-title"><i class="fas fa-camera"></i> 活動照片</h2>
     
     <div id="gallery-controls" class="text-center" style="margin-bottom: 20px;">
         <div id="gallery-login-prompt">
-            <p style="margin-bottom: 15px;">要上傳照片，請點擊下方按鈕登入管理帳號。</p>
-            <button class="survey-button" onclick="showLoginModal()">
-                <i class="fas fa-user-lock"></i> 登入管理帳號
-            </button>
+           
         </div>
         <div id="gallery-logged-in-info" style="display:none; text-align: right; font-weight: bold; color: var(--primary-pink);">
             <span id="gallery-login-info"></span>
@@ -1018,8 +848,8 @@
         <div id="photo-upload-status" class="text-center mt-4 font-semibold text-green-600" style="display:none;"></div>
 	    </div>
 <center>
-            <a href="https://drive.google.com/drive/folders/1p3fRv2eCKhkEVs-jCCLFEHezaZtmxMeI?usp=sharing" class="survey-button" target="_blank">
-                <i class="fas fa-pencil-alt"></i> 雲端資料下載處
+            <a href="https://drive.google.com/drive/folders/173o7e_EYtPAbtvQUXeAgdmRoPKVOv4SJ?usp=drive_link" class="survey-button" target="_blank">
+                <i class="fas fa-pencil-alt"></i> 點擊此處來查看可愛的同學參與了哪些照片吧!	(ᗒ⩊ᗕ)
             </a>
         </center>
     <div id="photo-display-area">
@@ -1082,25 +912,10 @@
 
 <div id="subsidy" class="page-content">
     <h2 class="page-title">補助申請</h2>
-    <p>請下載申請表格，填寫完成後繳交至學務處午餐秘書。</p>
+    
     <div class="file-list">
-        <div class="file-item">
-            <i class="fas fa-file-word"></i>
-            <a href="https://drive.google.com/file/d/1bV9PN34vF867GJ3xKtoQgmitDvhRHGa-/view" download>113原住民補助申請表.docx</a>
         </div>
-        <div class="file-item">
-            <i class="fas fa-file-word"></i>
-            <a href="https://drive.google.com/file/d/1G_33mteM16ZZf9YlWw_BOKRgKmxf0t64/view" download>113暑、113-1安心餐卷申請表.docx</a>
-        </div>
-        <div class="file-item">
-            <i class="fas fa-file-word"></i>
-            <a href="https://drive.google.com/file/d/1M9dguXQdb6P7bbAgHV6bae0R04RES-hB/view" download>113貧困午餐申請書.docx</a>
-        </div>
-        <div class="file-item">
-            <i class="fas fa-file-word"></i>
-            <a href="https://drive.google.com/file/d/1Omh2VduikQLvoAM2dHUF6nc4_i8NblUF/view" download>午餐退費退餐申請表.docx</a>
-        </div>
-    </div>
+        
     <center>
         <a href="https://drive.google.com/drive/folders/1p3fRv2eCKhkEVs-jCCLFEHezaZtmxMeI?usp=sharing" class="survey-button" target="_blank">
             <i class="fas fa-pencil-alt"></i> 雲端資料下載處
@@ -1110,71 +925,28 @@
 
 <div id="finance" class="page-content">
     <h2 class="page-title">收支結算</h2>
-    <p>請點擊以下連結查看本學期午餐收支結算表。</p>
-    <div class="file-list">
-        <div class="file-item">
-            <i class="fas fa-file-excel"></i>
-            <a href="https://drive.google.com/file/d/1xvcCNQbhKm5XewZ6kB0PoGz2dArLEBXO/view" download>110學年度第一學期午餐收支結算表.pdf</a>
-        </div>
-        <div class="file-item">
-            <i class="fas fa-file-excel"></i>
-            <a href="https://drive.google.com/file/d/1ns2u0mkqfMKSF9IN_89b27m7iY8GzD/view" download>110學年度第二學期午餐收支結算表.pdf</a>
-        </div>
-        <div class="file-item">
-            <i class="fas fa-file-excel"></i>
-            <a href="https://drive.google.com/file/d/1I_xQ2bKqfR9M9YlB7w3Z4h4d9C8W5eB/view" download>111學年度第一學期午餐收支結算表.pdf</a>
-        </div>
-        <div class="file-item">
-            <i class="fas fa-file-excel"></i>
-            <a href="https://drive.google.com/file/d/1O1u2cE0bB4H4o5p7aQ9h2x3g3g3z4i4/view" download>111學年度第二學期午餐收支結算表.pdf</a>
-        </div>
-    </div>
+    
     <center>
-        <a href="https://drive.google.com/drive/folders/1p3fRv2eCKhkEVs-jCCLFEHezaZtmxMeI?usp=sharing" class="survey-button" target="_blank">
-            <i class="fas fa-pencil-alt"></i> 雲端資料下載處
+        <a href="https://drive.google.com/drive/folders/1Fula7_MZmLCaXtOFc0_kERu71YJ-dG9X?usp=drive_link" class="survey-button" target="_blank">
+            <i class="fas fa-pencil-alt"></i> 點擊此處查看收支預算吧!
         </a>
     </center>
 </div>
 
 <div id="lunch-coupon" class="page-content">
     <h2 class="page-title">安心午餐券</h2>
-    <p>請下載安心午餐券相關文件。</p>
-    <div class="file-list">
-        <div class="file-item">
-            <i class="fas fa-file-pdf"></i>
-            <a href="https://drive.google.com/file/d/1f-0e-0d-0e-0d-0e-0d-0e-0d-0e-0d-0e/view" download>臺中市寒暑假暨例假日安心午餐券領餐流程及使用說明.pdf</a>
-        </div>
-        <div class="file-item">
-            <i class="fas fa-file-pdf"></i>
-            <a href="https://school.tc.edu.tw/open-message/064617/get-file/68350acdf64d6c65b630887c" download>臺中市寒暑假暨例假日安心午餐券使用規範.pdf</a>
-        </div>
-    </div>
+   <center>
+        <a href="https://drive.google.com/drive/folders/1dDle9P5LmYmTf6klr3urxJHM6dAeOuZD?usp=drive_link" class="survey-button" target="_blank">
+            <i class="fas fa-pencil-alt"></i>點擊此處查申請安心午餐券吧!ヽ(*⌒▽⌒*)ﾉ
+        </a>
+    </center>
 	
 	<div style="margin-top: 20px;">
-            <a href="" class="survey-button" target="_blank">
-                <i class="fas fa-list-alt"></i> 
-		<p> 一、臺中市寒暑假暨例假日安心午餐券 數位學生證 領餐流程及使用說明:</p>
-        <p>★★ 學生領餐時務必攜帶數位學生證，自114年9月1日起，為響應環保，兌餐全面實施無紙化，不再列印小白單。</p>
-        <p>★★ 學生持本市數位學生證，選好餐點後至櫃檯感應機台即可領餐，請學生配合辦理。</p>
-        <p>★★ 倘遇學生數位學生證或卡片故障、遺失或忘記攜帶等情況，請於現場填寫「臺中市安心午餐券 臨櫃兌餐表」，並依下列方式由超商店員拍照存查後，即可兌餐：</p>
-        <p>(1).數位學生證或卡片故障者：請將填妥之表單與實體卡片一併拍照存查。</p>
-        <p>(2).數位學生證或卡片遺失或忘記攜帶者：僅需拍攝填妥之表單即可。</p>
-        <p>二、請務必遵守【臺中市寒暑假暨例假日安心午餐券領餐內容及使用規範】若查有不當交易情事，將依法追究責任。</p>
-        <p>★★ 倘平日、寒暑假及例假日，因遇天災(颱風)等不可抗力因素，本市宣布停止上班上課，則當日領餐時段調整為「全天」(24小時)皆可至立約廠商門市進行兌餐。★★</p>
-        <p>★★ 寒暑假課照學生於上課日遇颱風假也可以照常至超商領餐 ★★</p>
-        <p>★★ 颱風天外出領餐請務必留意自身安全 
-		<p>★★ 颱風天外出領餐請務必留意自身安全 ★★</p>
-        <p>三、</p>
-        <p>★★★★★★數位學生證如遺失請立即告知午餐秘書以便後續操作★★★★★★</p>
-        <p>學生證如遺失請至此官網進行補辦動作: https://stcard.tc.edu.tw/</p>
-		<p>★★★★★★★★若卡片遺失請盡速自費辦理新卡，並通知午餐秘書辦理停卡動作，待拿到新卡後一定要主動通知午餐秘書辦理開卡登錄始能使用新卡兌餐。★★★★★★★★</p>
-        <p>四、如領餐操作流程有問題，請撥打悠遊卡24小時客服專線:</p>
-        <p>免費客服專線 0800-028-880</p>
-        <p>付費客服電話 市話直撥 412-8880</p>
-        <p>手機及金馬地區請加 02-4128880</p>
-            </a>
-        </div>
+         
+     </a>
+  </div>
     
+	
 
 <div id="loginModal" class="modal-overlay">
     <div class="modal-content">
@@ -1644,12 +1416,9 @@
     }
 </script>
 
-<footer style="text-align: center; padding: 20px; margin-top: 30px; border-top: 1px solid #eee;">
-    © 2025 大道國中午餐資訊網 版權所有
-</footer>
+ <footer style="text-align: center; padding: 20px; margin-top: 30px; border-top: 1px solid #eee;">
+  © 2025 大道國中午餐資訊網 版權所有         校址：43252/432311 臺中市大肚區大東里仁德路60號              電話：04-26992028
+ </footer>
 
 </body>
 </html>
-
-
-
